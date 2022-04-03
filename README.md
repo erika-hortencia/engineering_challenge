@@ -1,9 +1,13 @@
-# engineering_challenge
+# Desafio de engenharia
 Solução para o desafio de engenharia desenvolvida em __Python 3.10.2__
 
 Para executar o arquivo utilize o seguinte comando no terminal:
 ```python erika_desafio_engenharia.py ```
 
+## Solução
+Os dados fornecidos foram utilizados para alimentar um arquivo json que serve de base para todas as consultas
+
+## Saídas obtidas
 Com base na estrutura, restrições e nos dados fornecidos foram resolvidos os seguintes itens:
 
 - [x] Identificar a região de destino de cada pacote, com totalização de pacotes (soma região)
@@ -17,6 +21,7 @@ Com base na estrutura, restrições e nos dados fornecidos foram resolvidos os s
 - [x] No item acima considerar que as jóias fossem sempre as primeiras a serem descarregadas;
 - [x] Listar os pacotes inválidos
 
+## Funções implementadas
 Na tabela abaixo estão as funções utilizadas para responder a cada item:
 
 | Item | Função                     |
