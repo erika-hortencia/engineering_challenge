@@ -18,7 +18,7 @@ Com base na estrutura, restrições e nos dados fornecidos foram resolvidos os s
 - [x] Gerar o relatório/lista de pacotes por destino e por tipo (Considere apenas pacotes válidos)
 - [x] Se o transporte dos pacotes para o Norte passa pela Região Centro-Oeste, quais são os pacotes que devem ser despachados no mesmo caminhão?
 - [x] Se todos os pacotes fossem uma fila qual seria a ordem de carga para o Norte no caminhão para descarregar os pacotes da Região Centro Oeste primeiro
-- [x] No item acima considerar que as jóias fossem sempre as primeiras a serem descarregadas;
+- [x] No item acima considerar que as jóias fossem sempre as primeiras a serem descarregadas
 - [x] Listar os pacotes inválidos
 
 ## Funções implementadas
